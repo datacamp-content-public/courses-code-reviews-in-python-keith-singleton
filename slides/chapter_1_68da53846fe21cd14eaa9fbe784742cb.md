@@ -13,11 +13,11 @@ key: "012d73bf82"
 `@lower_third`
 
 name: Keith Singleton 
-title: Data Scientists, Data Science Breaks LLC
+title: Data Scientists, Data Science Breaks LLC 
 
 
 `@script`
-Hello, my name is Keith Singleton. In this lesson I will introduce you to functional issues that are common to come across during a Code Review. Our main objective is to identify the three main types of functional issues you will come across within your code.
+Hello, my name is Keith Singleton. Data Scientists for Data Science Breaks LLC.  In this lesson I will introduce you to functional issues that are common to come across during a Code Review. Our main objective is to identify common functional issues you will come across within your code.
 
 
 ---
@@ -61,7 +61,7 @@ key: "5f2861fafb"
 
 
 `@script`
-In this chapter we will look at and define compile errors, runtime errors, and logical errors.
+In this chapter we will look at and define compile errors, runtime errors, and logical errors. How do we identify these errors? How do we address and find potential solutions for these errors? In this chapter, we will address these questions, and allow you plenty of hands on practical experience in addressing each type of error encountered.
 
 
 ---
