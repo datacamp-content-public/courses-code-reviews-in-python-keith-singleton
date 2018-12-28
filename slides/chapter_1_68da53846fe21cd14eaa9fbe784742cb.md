@@ -1,6 +1,8 @@
 ---
 title: Insert title here
 key: 68da53846fe21cd14eaa9fbe784742cb
+video_link:
+  mp3: https://datasciencebreaks.com/wp-content/uploads/2018/12/Lesson-Recording.mp3
 
 ---
 ## Lesson 2.1 - Introduction to Functional Issues in Code Reviews
@@ -41,7 +43,7 @@ center_content: true
 There are several functional issues we may encounter during our code reviews. Potential bugs, error handling, and efficiency of the code itself. 
 When looking for bugs, we have to ask ourselves will loops terminate when expected? 
 How are coding errors handled? 
-If a code is using an algorithm, how efficient is this code? For example iterating over a list of keys in a dictionary is an inefficient way to locate a desired value. Efficiency matters because it determines the speed and run-time of your code.
+If a code is using an algorithm, how efficient is this code? For example iterating over a list of keys in a dictionary is an inefficient method for locating a desired value. Efficiency matters because it determines the speed and run-time of your code.
 
 
 ---
