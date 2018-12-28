@@ -17,7 +17,7 @@ title: Data Scientists, Data Science Breaks LLC
 
 
 `@script`
-Hello, my name is Keith Singleton. Data Scientists for Data Science Breaks LLC.  In this lesson I will introduce you to functional issues that are common to come across during a Code Review. Our main objective is to identify common functional issues you will come across within your code.
+Hello, my name is Keith Singleton. Data Scientists for Data Science Breaks LLC.  In this lesson I will introduce you to functional issues that are common to come across during a Code Review. Our main objective is to identify common functional issues, and how to handle errors that are encountered within your code. Identifying functional issues within your code is a vital part of code reviewing. Ensuring the code functions at its best, with no returned errors, and runs efficiently.
 
 
 ---
@@ -41,7 +41,7 @@ center_content: true
 There are several functional issues we may encounter during our code reviews. Potential bugs, error handling, and efficiency of the code itself. 
 When looking for bugs, we have to ask ourselves will loops terminate when expected? 
 How are coding errors handled? 
-If a code is using an algorithm, how efficient is this code?
+If a code is using an algorithm, how efficient is this code? For example iterating over a list of keys in a dictionary is an inefficient way to locate a desired value. Efficiency matters because it determines the speed and run-time of your code.
 
 
 ---
@@ -65,7 +65,7 @@ In this chapter we will look at and define compile errors, runtime errors, and l
 
 
 ---
-## Thank You
+## This Concludes Introduction to Functional Issues
 
 ```yaml
 type: "FinalSlide"
@@ -73,5 +73,5 @@ key: "7c42b292c1"
 ```
 
 `@script`
-This concludes our introduction to functional errors.
+This concludes our introduction to functional errors. In the next lessons we will discuss Compile Errors, Runtime Errors, and Logical Errors in greater detail. How to identify these errors, and focus on how to resolve each error.
 
